@@ -1,0 +1,101 @@
+[
+	{
+		"Field" : "Booking_Number",
+		"Type" : "varchar(20)",
+		"Collation" : "utf8mb4_0900_ai_ci",
+		"Null" : "NO",
+		"Key" : "PRI",
+		"Default" : null,
+		"Extra" : "",
+		"Privileges" : "select,insert,update,references",
+		"Comment" : ""
+	},
+	{
+		"Field" : "CheckIn_Date",
+		"Type" : "date",
+		"Collation" : null,
+		"Null" : "YES",
+		"Key" : "",
+		"Default" : null,
+		"Extra" : "",
+		"Privileges" : "select,insert,update,references",
+		"Comment" : ""
+	},
+	{
+		"Field" : "CheckOut_Date",
+		"Type" : "date",
+		"Collation" : null,
+		"Null" : "YES",
+		"Key" : "",
+		"Default" : null,
+		"Extra" : "",
+		"Privileges" : "select,insert,update,references",
+		"Comment" : ""
+	},
+	{
+		"Field" : "CheckIn_Hour",
+		"Type" : "time",
+		"Collation" : null,
+		"Null" : "YES",
+		"Key" : "",
+		"Default" : null,
+		"Extra" : "",
+		"Privileges" : "select,insert,update,references",
+		"Comment" : ""
+	},
+	{
+		"Field" : "CheckOut_Hour",
+		"Type" : "time",
+		"Collation" : null,
+		"Null" : "YES",
+		"Key" : "",
+		"Default" : null,
+		"Extra" : "",
+		"Privileges" : "select,insert,update,references",
+		"Comment" : ""
+	},
+	{
+		"Field" : "Persons",
+		"Type" : "int",
+		"Collation" : null,
+		"Null" : "YES",
+		"Key" : "",
+		"Default" : null,
+		"Extra" : "",
+		"Privileges" : "select,insert,update,references",
+		"Comment" : ""
+	},
+	{
+		"Field" : "Babe",
+		"Type" : "int",
+		"Collation" : null,
+		"Null" : "YES",
+		"Key" : "",
+		"Default" : null,
+		"Extra" : "",
+		"Privileges" : "select,insert,update,references",
+		"Comment" : ""
+	},
+	{
+		"Field" : "Booking_OfficeName",
+		"Type" : "varchar(60)",
+		"Collation" : "utf8mb4_0900_ai_ci",
+		"Null" : "YES",
+		"Key" : "",
+		"Default" : null,
+		"Extra" : "",
+		"Privileges" : "select,insert,update,references",
+		"Comment" : ""
+	},
+	{
+		"Field" : "Status",
+		"Type" : "char(20)",
+		"Collation" : "utf8mb4_0900_ai_ci",
+		"Null" : "YES",
+		"Key" : "",
+		"Default" : null,
+		"Extra" : "",
+		"Privileges" : "select,insert,update,references",
+		"Comment" : ""
+	}
+]

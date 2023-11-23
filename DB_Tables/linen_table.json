@@ -1,0 +1,167 @@
+[
+	{
+		"Field" : "Monograph",
+		"Type" : "varchar(10)",
+		"Collation" : "utf8mb4_0900_ai_ci",
+		"Null" : "NO",
+		"Key" : "PRI",
+		"Default" : null,
+		"Extra" : "",
+		"Privileges" : "select,insert,update,references",
+		"Comment" : ""
+	},
+	{
+		"Field" : "Single_BedSheets",
+		"Type" : "int",
+		"Collation" : null,
+		"Null" : "YES",
+		"Key" : "",
+		"Default" : null,
+		"Extra" : "",
+		"Privileges" : "select,insert,update,references",
+		"Comment" : ""
+	},
+	{
+		"Field" : "Double_BedSheets",
+		"Type" : "int",
+		"Collation" : null,
+		"Null" : "YES",
+		"Key" : "",
+		"Default" : null,
+		"Extra" : "",
+		"Privileges" : "select,insert,update,references",
+		"Comment" : ""
+	},
+	{
+		"Field" : "Pillow_Cases",
+		"Type" : "int",
+		"Collation" : null,
+		"Null" : "YES",
+		"Key" : "",
+		"Default" : null,
+		"Extra" : "",
+		"Privileges" : "select,insert,update,references",
+		"Comment" : ""
+	},
+	{
+		"Field" : "Small_Towels",
+		"Type" : "int",
+		"Collation" : null,
+		"Null" : "YES",
+		"Key" : "",
+		"Default" : null,
+		"Extra" : "",
+		"Privileges" : "select,insert,update,references",
+		"Comment" : ""
+	},
+	{
+		"Field" : "Big_Towels",
+		"Type" : "int",
+		"Collation" : null,
+		"Null" : "YES",
+		"Key" : "",
+		"Default" : null,
+		"Extra" : "",
+		"Privileges" : "select,insert,update,references",
+		"Comment" : ""
+	},
+	{
+		"Field" : "Kitchen_Towels",
+		"Type" : "int",
+		"Collation" : null,
+		"Null" : "YES",
+		"Key" : "",
+		"Default" : null,
+		"Extra" : "",
+		"Privileges" : "select,insert,update,references",
+		"Comment" : ""
+	},
+	{
+		"Field" : "Hand_Towels",
+		"Type" : "int",
+		"Collation" : null,
+		"Null" : "YES",
+		"Key" : "",
+		"Default" : null,
+		"Extra" : "",
+		"Privileges" : "select,insert,update,references",
+		"Comment" : ""
+	},
+	{
+		"Field" : "Pool_Towels",
+		"Type" : "int",
+		"Collation" : null,
+		"Null" : "YES",
+		"Key" : "",
+		"Default" : null,
+		"Extra" : "",
+		"Privileges" : "select,insert,update,references",
+		"Comment" : ""
+	},
+	{
+		"Field" : "Robe",
+		"Type" : "int",
+		"Collation" : null,
+		"Null" : "YES",
+		"Key" : "",
+		"Default" : null,
+		"Extra" : "",
+		"Privileges" : "select,insert,update,references",
+		"Comment" : ""
+	},
+	{
+		"Field" : "Quilted_PillowCases",
+		"Type" : "int",
+		"Collation" : null,
+		"Null" : "YES",
+		"Key" : "",
+		"Default" : null,
+		"Extra" : "",
+		"Privileges" : "select,insert,update,references",
+		"Comment" : ""
+	},
+	{
+		"Field" : "Fitted_Sheets",
+		"Type" : "int",
+		"Collation" : null,
+		"Null" : "YES",
+		"Key" : "",
+		"Default" : null,
+		"Extra" : "",
+		"Privileges" : "select,insert,update,references",
+		"Comment" : ""
+	},
+	{
+		"Field" : "Blankets",
+		"Type" : "int",
+		"Collation" : null,
+		"Null" : "YES",
+		"Key" : "",
+		"Default" : null,
+		"Extra" : "",
+		"Privileges" : "select,insert,update,references",
+		"Comment" : ""
+	},
+	{
+		"Field" : "Coverlets",
+		"Type" : "int",
+		"Collation" : null,
+		"Null" : "YES",
+		"Key" : "",
+		"Default" : null,
+		"Extra" : "",
+		"Privileges" : "select,insert,update,references",
+		"Comment" : ""
+	},
+	{
+		"Field" : "Laundry_Name",
+		"Type" : "char(30)",
+		"Collation" : "utf8mb4_0900_ai_ci",
+		"Null" : "YES",
+		"Key" : "",
+		"Default" : null,
+		"Extra" : "",
+		"Privileges" : "select,insert,update,references",
+		"Comment" : ""
+	}
+]

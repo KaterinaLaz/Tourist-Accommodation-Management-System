@@ -1,0 +1,24 @@
+[
+	{
+		"Field" : "Phone_Number",
+		"Type" : "int",
+		"Collation" : null,
+		"Null" : "NO",
+		"Key" : "PRI",
+		"Default" : null,
+		"Extra" : "",
+		"Privileges" : "select,insert,update,references",
+		"Comment" : ""
+	},
+	{
+		"Field" : "Booking_Number",
+		"Type" : "varchar(20)",
+		"Collation" : "utf8mb4_0900_ai_ci",
+		"Null" : "NO",
+		"Key" : "PRI",
+		"Default" : null,
+		"Extra" : "",
+		"Privileges" : "select,insert,update,references",
+		"Comment" : ""
+	}
+]

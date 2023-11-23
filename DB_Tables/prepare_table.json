@@ -1,0 +1,35 @@
+[
+	{
+		"Field" : "Username",
+		"Type" : "varchar(30)",
+		"Collation" : "utf8mb4_0900_ai_ci",
+		"Null" : "NO",
+		"Key" : "PRI",
+		"Default" : null,
+		"Extra" : "",
+		"Privileges" : "select,insert,update,references",
+		"Comment" : ""
+	},
+	{
+		"Field" : "Booking_Number",
+		"Type" : "varchar(20)",
+		"Collation" : "utf8mb4_0900_ai_ci",
+		"Null" : "NO",
+		"Key" : "PRI",
+		"Default" : null,
+		"Extra" : "",
+		"Privileges" : "select,insert,update,references",
+		"Comment" : ""
+	},
+	{
+		"Field" : "Hours",
+		"Type" : "time",
+		"Collation" : null,
+		"Null" : "YES",
+		"Key" : "",
+		"Default" : null,
+		"Extra" : "",
+		"Privileges" : "select,insert,update,references",
+		"Comment" : ""
+	}
+]

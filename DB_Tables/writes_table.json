@@ -1,0 +1,24 @@
+[
+	{
+		"Field" : "Name",
+		"Type" : "varchar(60)",
+		"Collation" : "utf8mb4_0900_ai_ci",
+		"Null" : "NO",
+		"Key" : "PRI",
+		"Default" : null,
+		"Extra" : "",
+		"Privileges" : "select,insert,update,references",
+		"Comment" : ""
+	},
+	{
+		"Field" : "Monograph",
+		"Type" : "varchar(10)",
+		"Collation" : "utf8mb4_0900_ai_ci",
+		"Null" : "NO",
+		"Key" : "PRI",
+		"Default" : null,
+		"Extra" : "",
+		"Privileges" : "select,insert,update,references",
+		"Comment" : ""
+	}
+]

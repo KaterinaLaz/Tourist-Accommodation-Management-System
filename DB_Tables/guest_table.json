@@ -1,0 +1,46 @@
+[
+	{
+		"Field" : "Email",
+		"Type" : "char(255)",
+		"Collation" : "utf8mb4_0900_ai_ci",
+		"Null" : "NO",
+		"Key" : "PRI",
+		"Default" : null,
+		"Extra" : "",
+		"Privileges" : "select,insert,update,references",
+		"Comment" : ""
+	},
+	{
+		"Field" : "Phone_Number",
+		"Type" : "int",
+		"Collation" : null,
+		"Null" : "NO",
+		"Key" : "PRI",
+		"Default" : null,
+		"Extra" : "",
+		"Privileges" : "select,insert,update,references",
+		"Comment" : ""
+	},
+	{
+		"Field" : "Full_Name",
+		"Type" : "char(60)",
+		"Collation" : "utf8mb4_0900_ai_ci",
+		"Null" : "YES",
+		"Key" : "",
+		"Default" : null,
+		"Extra" : "",
+		"Privileges" : "select,insert,update,references",
+		"Comment" : ""
+	},
+	{
+		"Field" : "Department",
+		"Type" : "char(60)",
+		"Collation" : "utf8mb4_0900_ai_ci",
+		"Null" : "YES",
+		"Key" : "",
+		"Default" : null,
+		"Extra" : "",
+		"Privileges" : "select,insert,update,references",
+		"Comment" : ""
+	}
+]
